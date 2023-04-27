@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "camera-scanner",
+    "slug": "camera-scanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

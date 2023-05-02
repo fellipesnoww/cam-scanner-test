@@ -1,4 +1,4 @@
-package com.camerascanner;
+package com.anonymous.camerascanner;
 
 import android.os.Build;
 import android.os.Bundle;
